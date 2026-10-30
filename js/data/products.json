@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук",
+    "price": 35000,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Монітор",
+    "price": 9500,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Миша",
+    "price": 1300,
+    "available": false
+  }
+]
